@@ -641,6 +641,11 @@ file = "kubejs/startup_scripts/recipes/greenhouse.js"
 hash = "e3fa23749515ff0720ceff36d06d1c36872b41eb41b62b2d0098ea9d47603add"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
+metafile = true
+
+[[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "09c988fc2d8c49694aa3ef48626f57e40827e0e0efb06a84f6adac94c81ed46b"
 metafile = true
