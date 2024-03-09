@@ -1,0 +1,13 @@
+name = "Sneak Through Berries"
+filename = "sneak_through_berries-forge-8.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39c3ceb1cf053dab2eb83910e3220f60e3b0a8f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4616174
+project-id = 324945

@@ -1,0 +1,13 @@
+name = "PizzaCraft"
+filename = "PizzaCraft-1.20.1-7.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d34a2f11bbcac7bd0ba952d234df2444bc628d8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4692286
+project-id = 292056

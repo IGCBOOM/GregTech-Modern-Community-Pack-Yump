@@ -1,0 +1,13 @@
+name = "Trofers"
+filename = "trofers-forge-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dfdb0d9330e6e957cff1bd5f524f02ddbe825c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4683552
+project-id = 482265

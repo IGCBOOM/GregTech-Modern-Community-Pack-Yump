@@ -1,0 +1,13 @@
+name = "Full Turtle Armor"
+filename = "fullturtlearmor-1.9-forge-mc1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "432ab22e702e60c26cde0d0ed9881f0ad48b9bc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4967440
+project-id = 507470

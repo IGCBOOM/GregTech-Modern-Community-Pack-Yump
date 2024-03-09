@@ -1,0 +1,13 @@
+name = "Perfect Plushies"
+filename = "perfectplushies-forge-1.20.1-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c019172aed88533344a4a5c076e98d1269c1348"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4985766
+project-id = 867232

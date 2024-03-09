@@ -1,0 +1,13 @@
+name = "Wither Drops Netherite Templates"
+filename = "wither_drops_netherite_templates_1.0.0_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b4d5ffd358f096e130e6900198fb94d321078fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4710776
+project-id = 904099
