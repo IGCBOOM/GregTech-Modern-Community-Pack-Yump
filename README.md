@@ -1,6 +1,6 @@
 # GregTech-Community-Pack-Modern
 
-Repository for the Modern fork of the GregTech Community Modpack - a minecraft modpack for 1.20.1 highlighting and featuring [GregTech Community Edition Unofficial Modern](https://github.com/GregTechCEu/GregTech-Modern).
+Repository for the Yump Modpack - a minecraft modpack for 1.20.1 featuring [GregTech Community Edition Unofficial Modern](https://github.com/GregTechCEu/GregTech-Modern) as the primary mod.
 
 ## Playing
 
@@ -21,6 +21,5 @@ by Microsoft [here](https://learn.microsoft.com/en-us/powershell/scripting/insta
 
 ## Credits
 
-[ursamina](https://github.com/ursamina) for modpack creation and maintenance<br/>
-[The contributors](https://github.com/GregTechCEu/GregTech-Modern-Community-Pack/graphs/contributors),
-for their useful updates to the pack.
+[IGCBOOM](https://github.com/IGCBOOM) for modpack creation and maintenance<br/>
+[ursamina](https://github.com/ursamina) and [contributors](https://github.com/GregTechCEu/GregTech-Modern-Community-Pack/graphs/contributors) original for modpack creation and maintenance<br/>
